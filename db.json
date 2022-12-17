@@ -1,0 +1,26 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nome": "Jane",
+      "email": "jane@gmail.com",
+      "nascimento": "22/10/2023",
+      "cep": 58265000
+    },
+    {
+      "id": 2,
+      "nome": "Jonas",
+      "email": "jonas@gmail.com",
+      "nascimento": "16/04/2005",
+      "cep": 58268000
+    },
+    {
+      "id": 3,
+      "nome": "Maria",
+      "email": "maria@gmail.com",
+      "nascimento": "21/11/1999",
+      "cep": 58200000
+    }
+    
+  ]
+}
